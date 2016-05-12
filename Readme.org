@@ -1,0 +1,13 @@
+#+TITLE: Emacs source visualizations
+
+* evolution of symbols prefix by date
+
+All(most) symbols in the emacs lisp code starting by the said prefix
+("org-*", "gnus-*", etc ) on git tag date. Only the top10 number of symbols at
+each date is displayed.
+
+Live demo: https://fab974.org/blog/emacs-src-vis/symbolc-by-prefix/
+
+Screenshot:
+
+[[file:Pictures/2016-05-12-16:08:18_1398x379+44+107.png]]
